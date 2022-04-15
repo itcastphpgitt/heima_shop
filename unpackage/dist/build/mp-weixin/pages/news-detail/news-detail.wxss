@@ -1,0 +1,1 @@
+.news-detail{font-size:30rpx;padding:0 20rpx}.news-detail .title{text-align:center;width:750rpx;margin:20rpx;display:block;margin:0 20rpx}.news-detail .info{display:flex;justify-content:space-between}
